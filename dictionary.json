@@ -1,1 +1,1 @@
-{"name":"exact-online","display_name":"exact-online","owner":"jwkuper","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"57eb76eeffd1291100431970"}
+{"name":"exact-online","display_name":"exact-online","owner":"jwkuper","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"57eb76eeffd1291100431970","base_endpoint":"https://start.exactonline.nl/api/oauth2/auth"}
